@@ -41,7 +41,7 @@ const Header = () => {
         <header id='header'>
             <div className='header__inner container'>
                 <h1 className='logo'>
-                    <Link to='/'>websloper</Link>
+                    <Link to='/'>nicejmp</Link>
                 </h1>
 
                 <nav className='nav'>
@@ -71,8 +71,8 @@ const Header = () => {
                     {isProfileOpen && (
                         <div className='profile'>
                             <ul>
-                                <li className='profile-id'>kingsong</li>
-                                <li className='profile-email'>kingsong@naver.com</li>
+                                <li className='profile-id'>nicejpm</li>
+                                <li className='profile-email'>nicejpm@naver.com</li>
                                 <span className='profile-logout' onClick={logout}>
                                     <span className='blind'>logout</span>
                                 </span>

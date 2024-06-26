@@ -7,7 +7,7 @@ const Footer = () => {
             <div className='footer__inner container'>
                 <div className='footer__info'>
                     <h2 className='footer__logo'>
-                        <Link to='/'>kingsong</Link>
+                        <Link to='/'>nicejmp</Link>
                     </h2>
                     <p className='footer__desc'>Connecting people through words and stories.</p>
                 </div>
